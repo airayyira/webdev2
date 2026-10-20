@@ -1,0 +1,19 @@
+.box-R{
+    background-color: rgb(255, 135, 135);
+    width: fit-content;
+}
+.box-O{
+    background-color: rgb(255, 189, 135);
+    width: fit-content;
+}
+.box-Y{
+    background-color: rgb(255, 253, 135);
+    width: fit-content;
+}
+.box-G{
+    background-color: rgb(169, 255, 135);
+    width: fit-content;
+}
+.container{
+    display: flex;
+}
